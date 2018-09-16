@@ -2,7 +2,8 @@
 My first repository on GitHub - CodePath Pre-Work 
 
 ### App Walk-though 
-### I have Problem with running the App. I can not add or connect devices to run my App on. 
+### I have Problem with running the App. I can not add or connect devices to run my App on. It gave me this Error Message " Compilation failed; see the compiler error output for details." 
+
 <a href="https://imgflip.com/gif/2i1al5"><img src="https://i.imgflip.com/2i1al5.gif" title="made at imgflip.com"/></a>
 
 
